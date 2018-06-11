@@ -23,7 +23,7 @@ To **EXIT** the program click the square at bottom-right corner.
 
 ## Author
 
-* **Mert ERSOY** - [Beofroll](https://github.com/Beofroll)
+* [**Beofroll**](https://github.com/Beofroll)
 
 
 ## License
